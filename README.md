@@ -10,4 +10,4 @@
 I have only taken 2 classes where the focuse was the Python programing
 language. I am currently taking a class where we are learning Linux and C.
 
-Reddit good TikTok bad : r/ComedyCemetery 
+[Reddit good TikTok bad : r/ComedyCemetery](https://www.reddit.com/r/ComedyCemetery/comments/q13tto/reddit_good_tiktok_bad/) 
