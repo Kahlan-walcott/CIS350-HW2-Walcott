@@ -10,4 +10,4 @@
 I have only taken 2 classes where the focuse was the Python programing
 language. I am currently taking a class where we are learning Linux and C.
 
-A link to my favoret meme
+Reddit good TikTok bad : r/ComedyCemetery 
