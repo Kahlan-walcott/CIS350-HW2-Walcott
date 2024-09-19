@@ -2,12 +2,11 @@
 
 # Interests
 * I like to read fantasy and mystery books.
-*  I like to do stuff with my family. 
-* I like to ...
+*  I am interested in learning things that will help me become a better computer scientist. 
+* I like to travle and do things with my family. 
 
-# Programing experience
 ## Technical Background
 I have only taken 2 classes where the focuse was the Python programing
-language. I am currently taking a class where we are learning Linux and C.
+language. I am currently taking a class where we are learning Linux and the C language. I currently haven’t done any internships, but I am looking forward to starting one next summer. 
 
 [Reddit good TikTok bad : r/ComedyCemetery](https://www.reddit.com/r/ComedyCemetery/comments/q13tto/reddit_good_tiktok_bad/) 
